@@ -1,4 +1,4 @@
---- 
+--- comment line
 framework: mocha
 postMerge: 
   pattern: 
